@@ -1,0 +1,5 @@
+Created branches feature_xy and bugfix_xy
+ - feature_xy
+	- Added read me file for exercise 1
+ - bugfix_xy
+	- Edited heading on read me file for exercise 1 
