@@ -1,19 +1,19 @@
-#Assignment Title: Introduction to DevOps and Version Control
+# Assignment Title: Introduction to DevOps and Version Control
 Level: Internship
 Course: DevOps
 Duration: 1 week
 
-#Assignment Objective
+# Assignment Objective
 This assignment is designed to introduce you to the essential tools and practices used in DevOps, including setting up a development environment, using Git for version control, and understanding real-world applications through case studies.
 
 
-#Task 1: Setting Up Your Development Environment
+# Task 1: Setting Up Your Development Environment
 Instructions:
-##Step 1: Install Linux or WSL2 (Windows Subsystem for Linux)
+## Step 1: Install Linux or WSL2 (Windows Subsystem for Linux)
 Install a Linux distribution (e.g., Ubuntu) using either a virtual machine or WSL2 on your local machine.
 Provide screenshots showing the installation process and confirmation of your Linux environment running.
 
-##Step 2: Set up essential tools:
+## Step 2: Set up essential tools:
 Install Git and other required tools (e.g., curl, wget, etc.).
 Run basic Linux and Git commands to verify the setup:
 git --version
