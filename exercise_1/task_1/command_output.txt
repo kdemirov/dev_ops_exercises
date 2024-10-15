@@ -1,0 +1,3 @@
+git version 2.46.2
+command_output.txt
+/home/kdemirov/Documents/repos/dev_ops_exercises/exercise_1
