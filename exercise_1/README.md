@@ -1,4 +1,4 @@
-## Assignment Title: Introduction to DevOps and Version Control
+# Assignment Title: Introduction to DevOps and Version Control
 Level: Internship
 Course: DevOps
 Duration: 1 week
