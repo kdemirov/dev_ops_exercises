@@ -1,0 +1,5 @@
+In feature_xy branch was edited the headers for steps and tasks and deliverables.
+In bugfix_xy the first line of the document was marked as heading and in feature_xy was only text 
+that created the merge confict. During merge from bugfix_xy to feature_xy we accepted the change from 
+bugfix_xy branch.
+
