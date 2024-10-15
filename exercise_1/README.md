@@ -23,57 +23,57 @@ Deliverables:
 Screenshots of your installed environment.
 Output of the terminal commands mentioned above.
 
-#Task 2: Case Studies on DevOps Practices
+# Task 2: Case Studies on DevOps Practices
 Instructions:
-##Step 1: Research case studies from leading tech companies that utilize DevOps practices:
+## Step 1: Research case studies from leading tech companies that utilize DevOps practices:
 Netflix: Focus on how they leverage DevOps for rapid deployment and service reliability.
 Google: Explore their use of Site Reliability Engineering (SRE) as part of DevOps.
 Amazon: Discuss how Amazon Web Services (AWS) applies DevOps principles for scalability and flexibility.
 
-##Step 2: Write a report comparing the DevOps practices of these companies.
+## Step 2: Write a report comparing the DevOps practices of these companies.
 Highlight the tools, processes, and strategies each company uses.
 Discuss how these practices contribute to faster deployment, better collaboration, and improved system reliability.
 Reflect on how these practices might be relevant for smaller organizations.
 
-Deliverables:
+## Deliverables:
 A well-researched and referenced report in PDF format.
 Minimum of 3 references per company.
 
 
-#Task 3: GitHub Repository Setup and Version Control
+# Task 3: GitHub Repository Setup and Version Control
 Instructions:.
-##Step 1: Create a GitHub repository
+## Step 1: Create a GitHub repository
 Initialize a new GitHub repository for this assignment.
 Provide a README.md file with details about the repository.
 
-##Step 2: Basic Git Workflow
+## Step 2: Basic Git Workflow
 Clone the repository to your local environment.
 Create a .gitignore file and add relevant entries (e.g., logs, OS-specific files).
 Add, commit, and push changes to the repository.
 
 
-##Step 3: Branching Strategy:
+## Step 3: Branching Strategy:
 Create two new branches: feature-xy and bugfix-xy.
 Make changes to files in each branch and push them separately to GitHub.
 
-Deliverables:
+## Deliverables:
 GitHub repository link.
 List of branches created with a brief explanation of changes in each branch.
 Screenshot showing commits pushed to different branches.
 
 
-#Task 4: Merge Conflicts and Resolution
+# Task 4: Merge Conflicts and Resolution
 Instructions:.
-##Step 1: Simulate and Resolve Merge Conflicts:
+## Step 1: Simulate and Resolve Merge Conflicts:
 Make conflicting changes in the feature-xy and bugfix-xy branches.
 Push the resolved conflict and final merged changes to GitHub.
 
-Step 2: Document the Process
+## Step 2: Document the Process
 Explain the cause of the merge conflict.
 Describe the steps taken to resolve the conflict.
 Provide screenshots of the conflict and resolution.
 
-Deliverables:
+## Deliverables:
 A document detailing the merge conflict and resolution steps..
 Final GitHub repository link with all branches merged.
 Screenshots showing the conflict and resolution.
